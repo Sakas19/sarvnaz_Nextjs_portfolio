@@ -19,10 +19,10 @@ const Page = () => {
             based in Stockholm, Sweden. With a strong foundation in web technologies and a passion for crafting user-friendly interfaces, I am dedicated to turning innovative ideas into reality. My journey in the world of development started with curiosity and a desire to create solutions that make a positive impact.
             <br />
             <br />
-            Whether I'm building a responsive website or a dynamic web application, I approach each project with creativity and a focus on delivering high-quality results. I'm constantly seeking new challenges and opportunities to learn and grow in this ever-evolving field.
+            Whether I am building a responsive website or a dynamic web application, I approach each project with creativity and a focus on delivering high-quality results. I am constantly seeking new challenges and opportunities to learn and grow in this ever-evolving field.
             <br />
             <br />
-            If you're looking for a dedicated and passionate frontend developer to contribute to your team, I'd love to connect and discuss how I can be a valuable asset to your projects.
+            If you are looking for a dedicated and passionate frontend developer to contribute to your team, I would love to connect and discuss how I can be a valuable asset to your projects.
           </p>
         </div>
         <div className={styles.links}>
