@@ -1,8 +1,7 @@
 import React from 'react';
-import { Quicksand } from 'next/font/google';
 import styles from './page.module.css';
 
-const quicksand = Quicksand ({ subsets: ['latin'] });
+
 
 const Page = () => {
   return (
