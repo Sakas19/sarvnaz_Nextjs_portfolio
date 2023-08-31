@@ -1,11 +1,11 @@
 import React from 'react';
 import style from '../style /About.module.css'
-import Image from 'next/image';
+
+
 
 const About = () => {
   return (
     <div className={style.container}>
-      <img src='/sarvnaz.jpg' alt="picture of sarvnaz" className={style.profileImage} />
       <h1 className={style.heading}>About Me</h1>
       <p className={style.description}>
         Hello, I'm Sarvnaz Kasaei, a passionate individual currently seeking an exciting Front-end development internship opportunity (LIA) in Sweden. I thrive on crafting user-friendly and visually appealing web experiences.
