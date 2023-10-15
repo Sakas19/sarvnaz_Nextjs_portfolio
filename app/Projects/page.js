@@ -7,7 +7,7 @@ const projects = [
   {
     name: "chalk project",
     description:
-      "his is my first time useing chalk in this project",
+      "This is my first time useing chalk in this project",
     image: "/chalk.svg",
     github: "https://github.com/Sakas19/Assignment-2-Chalk",
     link: "/",
@@ -27,6 +27,22 @@ const projects = [
     image: "/weather-app.png",
     github: "https://github.com/Sakas19/project1",
     link: "http://weather-app-sakas19.vercel.app",
+  },
+  {
+    name: "cocktail-founder",
+    description:
+      "This is the first experiment with typescript",
+    image: "/cocktail-founder.png",
+    github: "https://github.com/Sakas19/cocktail-founder",
+    link: "https://cocktail-founder-3.vercel.app/",
+  },
+  {
+    name: "Tic-Tac-Toe",
+    description:
+      "This is the first experiment with typescript",
+    image: "/Tic-tac-toe.png",
+    github: "https://github.com/Sakas19/Tic-Tac-Toe",
+    link: "https://tic-tac-toe-weld-mu.vercel.app/",
   },
 
 ]
