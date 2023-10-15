@@ -5,14 +5,6 @@ import styles from '../style /Projects.module.css'
 
 const projects = [
   {
-    name: "First react project",
-    description:
-      "This is the first assignment that we done with vite",
-    image: "/project-1.png",
-    github: "https://github.com/Sakas19/project1",
-    link: "/",
-  },
-  {
     name: "chalk project",
     description:
       "his is my first time useing chalk in this project",
