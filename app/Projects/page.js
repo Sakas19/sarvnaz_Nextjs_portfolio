@@ -5,12 +5,12 @@ import styles from '../style /Projects.module.css'
 
 const projects = [
   {
-    name: "chalk project",
+    name: "Todo App",
     description:
-      "This is my first time useing chalk in this project",
+      "This is fullstack todo app with vite and python",
     image: "/chalk.svg",
-    github: "https://github.com/Sakas19/Assignment-2-Chalk",
-    link: "/",
+    github: "https://github.com/Sakas19/ToDo_app-frontend",
+    link: "/https://to-do-app-frontend-tau.vercel.app/",
   },
   {
     name: "Magic8-ball",
