@@ -1,51 +1,39 @@
 import React from "react";
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
-import Image from 'next/image'
-import styles from '../style /Projects.module.css'
+import Image from 'next/image';
+import styles from '../style /Projects.module.css';
 
 const projects = [
   {
-    name: "Todo App",
-    description:
-      "This is fullstack todo app with vite and python",
-    image: "/chalk.svg",
-    github: "https://github.com/Sakas19/ToDo_app-frontend",
-    link: "/https://to-do-app-frontend-tau.vercel.app/",
-  },
-  {
-    name: "Magic8-ball",
-    description:
-      "This is my version of the famous magic 8 ball game",
-    image: "/magic-8-ball.png",
-    github: "https://github.com/Sakas19/Magic-8-ball",
-    link: "https://magic-8-ball-sakas19.vercel.app/",
-  },
-  {
     name: "weather_app",
-    description:
-      "This is the first assignment that we done with vite",
+    description: "This is the first assignment that we done with vite",
     image: "/weather-app.png",
     github: "https://github.com/Sakas19/project1",
     link: "http://weather-app-sakas19.vercel.app",
   },
   {
     name: "cocktail-founder",
-    description:
-      "This is the first experiment with typescript",
-    image: "/cocktail-founder.png",
+    description: "This is the first experiment with typescript",
+    image: "/candm.png",
     github: "https://github.com/Sakas19/cocktail-founder",
     link: "https://cocktail-founder-3.vercel.app/",
   },
   {
-    name: "Tic-Tac-Toe",
-    description:
-      "This is the first experiment with typescript",
-    image: "/Tic-tac-toe.png",
-    github: "https://github.com/Sakas19/Tic-Tac-Toe",
-    link: "https://tic-tac-toe-weld-mu.vercel.app/",
+    name: "Todo App",
+    description: "This is fullstack todo app with vite and python",
+    image: "/to-do.png",
+    github: "https://github.com/Sakas19/ToDo_app-frontend",
+    link: "/https://to-do-app-frontend-tau.vercel.app/",
   },
+  {
+    name: "Magic8-ball",
+    description: "This is my version of the famous magic 8 ball game",
+    image: "/magic-8-ball.png",
+    github: "https://github.com/Sakas19/Magic-8-ball",
+    link: "https://magic-8-ball-sakas19.vercel.app/",
+  },
+];
 
-]
 const Projects = () =>{
   return (
     <div>

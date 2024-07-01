@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   padding: 0;
-  margin: 1;
+  margin: 0;
   font-family: 'Quicksand';
 }
 
@@ -13,16 +13,13 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #FCD9CF;
+  align-items: center; 
 }
 
 .mainContent {
   height: calc(100% - 100px);
   display: flex;
   flex-direction: column;
-}
-
-body {
-  display: flex;
 }
 
 a {
@@ -36,6 +33,11 @@ a {
   align-items: center;
   height: 60px;
   color: #bb531e;
+  width: 100%;
+  max-width: 1200px; 
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 10px auto; 
 }
 
 .navbar-center {
@@ -43,6 +45,7 @@ a {
   align-items: center;
   gap: 50px; 
 }
+
 
 
 

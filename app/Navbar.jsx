@@ -5,14 +5,16 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="navbar-center">
-      <Link href="/">Home</Link>
-      <Link href="/About">About</Link>
-      <Link href="/Projects">Projects</Link>
-      {/* <Link href="/contact">Contact</Link> */}
+        <Link href="/">Home</Link>
+        <Link href="/About">About</Link>
+        <Link href="/Projects">Projects</Link>
+        {/* <Link href="/Testimonial">Testimonial</Link> Corrected Link */}
+        <Link href="/Contact">Contact</Link>
+      </div>
     </div>
-  </div>
   );
 };
 
 export default Navbar;
+
 
