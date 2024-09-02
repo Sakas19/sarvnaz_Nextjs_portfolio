@@ -25,7 +25,7 @@ const Page = () => {
         <div className={styles.links}>
           <a href="https://www.linkedin.com/in/sarvnaz-kasaei-593224200/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a href="https://github.com/Sakas19" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a href="/Sarvnaz kasaei.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+          <a href="/Sarvnaz-kasaei.pdf" target="_blank" rel="noopener noreferrer">CV</a>
         </div>
       </div>
     </main>
