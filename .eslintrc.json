@@ -5,7 +5,8 @@
   ],
   "rules": {
     "no-unused-vars": 1,
-    "no-multiple-empty-lines": "warn"
+    "no-multiple-empty-lines": "warn",
+    "react/no-unescaped-entities": "off"
   }
 }
 
