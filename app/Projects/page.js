@@ -23,7 +23,7 @@ const projects = [
     description: "This is fullstack todo app with vite and python",
     image: "/to-do.png",
     github: "https://github.com/Sakas19/ToDo_app-frontend",
-    link: "/https://to-do-app-frontend-tau.vercel.app/",
+    link: "https://to-do-app-frontend-tau.vercel.app/",
   },
   {
     name: "Magic8-ball",
